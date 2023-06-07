@@ -1,0 +1,10 @@
+Lista de clientes
+2023
+zona sur
+id	apellidos	nombres
+1	Pachas		Juan
+2 	Perez		Lucia
+3	Prada		Mónica
+						
+					
+6	Jimenez		Roxana

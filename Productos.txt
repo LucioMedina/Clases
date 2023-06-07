@@ -1,0 +1,4 @@
+id;producto;marca;precio
+1;teclado;micronics;75
+2;mouse;genius;45
+3;monitor;samsung;500

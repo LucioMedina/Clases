@@ -1,0 +1,4 @@
+id	apellidos	nombres
+1	Pachas		Juan
+2 	Perez		Lucia
+3	Prada		Mónica
