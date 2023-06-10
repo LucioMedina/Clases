@@ -1,6 +1,7 @@
 #Ejercicios
 #Matriz con 9 programas
-matrizProgramas <- matrix(c("NotePad++", "VSCode", "Eclipse", "photoshop", "Indesign", "Inventor", "Word", "PowerPoint", "Excel"),nrow=3 ,ncol=3)
+matrizProgramas <- matrix(c("NotePad++", "VSCode", "Eclipse", "photoshop", "Indesign", 
+                            "Inventor", "Word", "PowerPoint", "Excel"),nrow=3 ,ncol=3)
 
 #Asignar nombre a cada fila
 rownames(matrizProgramas)<- c("Básico", "Intermedio", "Avanzado")
